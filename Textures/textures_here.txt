@@ -1,0 +1,4 @@
+adhere to naming conventions
+eventually we'll sort all this stuff in folders by track ...
+
+Basic Assets contain textures every track will probably have
