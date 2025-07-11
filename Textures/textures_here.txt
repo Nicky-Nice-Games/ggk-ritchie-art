@@ -1,4 +1,8 @@
 adhere to naming conventions
 eventually we'll sort all this stuff in folders by track ...
 
+Dev Textures is for greyboxing
 Basic Assets contain textures every track will probably have
+Skyboxes contains HDRI files for:
+Day w/ sun and clouds
+Night w/ full moon and w/o clouds

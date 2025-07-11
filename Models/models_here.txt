@@ -1,5 +1,0 @@
-put each model and their respective assets in their own folder
-adhere to naming conventions detailed in the Canva: 
-https://www.canva.com/design/DAGqJs_OuIM/z9mcdJYhVpzbbMK53vqofw/edit?utm_content=DAGqJs_OuIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-or just look at other filenames and mimic lol
